@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f1df9e4.css",
+    "main.js": "/static/js/main.007cc0a0.js",
+    "static/js/787.c67d187e.chunk.js": "/static/js/787.c67d187e.chunk.js",
+    "static/media/weather-16-9.png": "/static/media/weather-16-9.7cd72dc1a529ecc661ab.png",
+    "static/media/waldo-16-9.png": "/static/media/waldo-16-9.512e3ae73d751d94c10a.png",
+    "static/media/form-16-9.png": "/static/media/form-16-9.3adb1d61a4aa4b140511.png",
+    "static/media/tic-16-9.png": "/static/media/tic-16-9.4f3bd6133c647b427bc2.png",
+    "static/media/restaurant-16-9.png": "/static/media/restaurant-16-9.47d25b01f6f3eb617830.png",
+    "static/media/memory-16-9.png": "/static/media/memory-16-9.635018ece2ce4b6dfc8f.png",
+    "static/media/glass-16-9.png": "/static/media/glass-16-9.8386e194275ec00c3f99.png",
+    "static/media/fumblr-16-9.png": "/static/media/fumblr-16-9.708d8494cb2f4673cc83.png",
+    "static/media/admin-16-9.png": "/static/media/admin-16-9.8d717e3f16029fabed8c.png",
+    "static/media/battleship-16-9.png": "/static/media/battleship-16-9.be7da6f5a8ea0d8d2bc2.png",
+    "static/media/cv-16-9.png": "/static/media/cv-16-9.791e49b024f960db8a0b.png",
+    "static/media/to-do-16-9.png": "/static/media/to-do-16-9.ddb49373585fd32ea59f.png",
+    "static/media/rock-16-9.png": "/static/media/rock-16-9.dc17a81a1e97847c792f.png",
+    "static/media/calc-16-9.png": "/static/media/calc-16-9.f005cbd18ab949bd9d05.png",
+    "static/media/etch-16-9.png": "/static/media/etch-16-9.4ed548f9f42c3a60552f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.0f1df9e4.css.map": "/static/css/main.0f1df9e4.css.map",
+    "main.007cc0a0.js.map": "/static/js/main.007cc0a0.js.map",
+    "787.c67d187e.chunk.js.map": "/static/js/787.c67d187e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f1df9e4.css",
+    "static/js/main.007cc0a0.js"
+  ]
+}
