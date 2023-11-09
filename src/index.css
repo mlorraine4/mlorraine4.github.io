@@ -1,13 +1,76 @@
+:root {
+  --background: rgb(36, 36, 43);
+  --white: rgb(249, 249, 249);
+  --blue: rgb(162, 143, 220);
+  --light-blue: rgb(0, 200, 255);
+  --bright: rgb(175, 4, 254);
+}
+
 body {
-  margin: 0;
+  margin: 50px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: var(--background);
+  color: var(--white);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: var(--bright);
+}
+
+.code {
+  color: var(--light-blue);
+  padding: 10px;
+}
+
+.code:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.project-container {
+  margin: 30px;
+  padding: 10px;
+  width: min-content;
+}
+
+.demo-container:hover {
+  box-shadow: 0 0 10px var(--blue);
+}
+
+.project-container:hover .title {
+  opacity: 0;
+}
+
+.title {
+  font-size: 1.5rem;
+  box-sizing: border-box;
+  width: 30vw;
+  padding: 10px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.project-img {
+  width: 30vw;
+  height: auto;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
 }
